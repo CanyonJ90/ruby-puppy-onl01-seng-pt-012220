@@ -16,6 +16,10 @@ end
     @@all.clear
   end
   
+  def self.print_all
+    @@self.print
+  end
+  
 
 end
 
