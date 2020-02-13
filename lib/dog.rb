@@ -17,7 +17,7 @@ end
   end
   
   def self.print_all
-    @@self.print
+    @@all.print
   end
   
 
