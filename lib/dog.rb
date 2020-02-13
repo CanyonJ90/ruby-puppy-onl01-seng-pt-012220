@@ -22,4 +22,5 @@ end
 
 end
 
-
+name = Dog.new
+name = "Pluto"
