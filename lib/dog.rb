@@ -20,6 +20,9 @@ end
     @@all.print
   end
   
+  def self.name
+    @@all.name
+  end
 
 end
 
