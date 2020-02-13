@@ -19,6 +19,10 @@ end
   def self.print_all
     @@all.print
   end
+  
+  def name 
+    neme = name
+  end
 
 end
 
